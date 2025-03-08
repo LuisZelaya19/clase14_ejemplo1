@@ -1,3 +1,3 @@
-class User {
+class Car {
     constructor(public name: string) { }
 }
